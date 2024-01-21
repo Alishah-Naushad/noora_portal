@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background-color: #333;
+  }
+  
+  .navbar-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Takes full width of the navbar */
+  }
+  
+  .navbar-logo {
+    height: 50px; /* Adjust logo size as needed */
+  }
+  
+  .navbar-text {
+    color: #fff;
+    font-size: 1.5rem;
+    margin-left: 1rem; /* Add some space between the logo and the text */
+  }
+  
