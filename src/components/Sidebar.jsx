@@ -1,28 +1,3 @@
-// // Sidebar.jsx
-// //product - order - dispatch - delivered - returned 
-// import React from 'react';
-// import './css/Sidebar.css';
-
-// const Sidebar = () => {
-//   return (
-//     <div className="sidebar">
-//       <h2>Sidebar</h2>
-//       <ul>
-//         <li>Product</li>
-//         <li>Order</li>
-//         <li>Dispatch</li>
-//         <li>Delivered</li>
-//         <li>Returned</li>
-//         {/* Add more items as needed */}
-//       </ul>
-//     </div>
-//   );
-// }
-
-// export default Sidebar;
-
-// Sidebar.jsx
-
 import React, { useState } from 'react';
 import './css//Sidebar.css';
 
